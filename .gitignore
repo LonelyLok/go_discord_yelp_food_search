@@ -15,5 +15,5 @@
 # vendor/
 
 # Go workspace file
-go.wor
+go.work
 .env
